@@ -1,0 +1,17 @@
+{
+    "name": "youthage/httpsqs",
+    "description": "基于http的简单队列服务",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "YouthAge",
+            "email": "myouthage@gmail.com"
+        }
+    ],
+     "autoload": {
+        "psr-4": {
+            "Httpsqs\\": "src/"
+        }
+    },
+    "minimum-stability": "1.0"
+}
